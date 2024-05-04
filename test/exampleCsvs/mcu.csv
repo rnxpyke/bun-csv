@@ -1,0 +1,24 @@
+csvbase_row_id,Name,Series,Phase,ReleaseDate,CreditLink1,CreditLink2
+1,Iron Man,Iron Man,1,2008-05-02,The Avengers,
+2,The Incredible Hulk,Hulk,1,2008-06-13,The Avengers,
+3,Iron Man 2,Iron Man,1,2010-05-07,Thor,
+4,Thor,Thor,1,2011-05-06,Captain America: The First Avenger,The Avengers
+5,Captain America: The First Avenger,Captain America,1,2011-07-22,The Avengers,
+6,The Avengers,Avengers,1,2012-05-04,Guardians of the Galaxy,
+7,Iron Man 3,Iron Man,2,2013-05-0,,
+8,Thor: The Dark World,Thor,2,2013-11-08,Guardians of the Galaxy,
+9,Captain America: The Winter Soldier,Captain America,2,2014-04-04,Avengers: Age of Ultron,Captain America: Civil War
+10,Guardians of the Galaxy,Guardians of the Galaxy,2,2014-08-01,,
+11,Avengers: Age of Ultron,Avengers,2,2015-05-01,Avengers: Infinity War,
+12,Ant-Man,Ant-Man,2,2015-07-17,Captain America: Civil War,Ant-Man and theWasp
+13,Captain America: Civil War,Captain America,3,2016-05-06,Spider-Man: Homecoming,Black Panther
+14,Doctor Strange,Doctor Strange,3,2016-11-04,Thor: Ragnarok,
+15,Guardians of the Galaxy Vol. 2,Guardians of the Galaxy,3,2017-05-05,Guardians of the Galaxy Vol. 3,
+16,Spider-Man: Homecoming,Spider-Man,3,2017-07-07,,
+17,Thor: Ragnarok,Thor,3,2017-11-03,Avengers: Infinity War,
+18,Black Panther,Black Panther,3,2018-02-16,Avengers: Infinity War,
+19,Avengers: Infinity War,Avengers,3,2018-04-27,Captain Marvel,
+20,Ant-Man and the Wasp,Ant-Man,3,2018-07-06,Avengers: Endgame,
+21,Captain Marvel,Captain Marvel,3,2019-03-08,Avengers: Endgame,
+22,Avengers: Endgame,Avengers,3,2019-04-26,Spider-Man: Far From Home,
+23,Spider-Man: Far From Home,Spider-Man,3,2019-07-02,Spider-Man: No Way Home,
